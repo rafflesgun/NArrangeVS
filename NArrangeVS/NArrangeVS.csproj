@@ -160,13 +160,16 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="NArrange.Core, Version=0.3.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NArrange.0.3.5\lib\NArrange.Core.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\NArrange.Core.dll</HintPath>
     </Reference>
     <Reference Include="NArrange.CSharp, Version=0.3.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NArrange.0.3.5\lib\NArrange.CSharp.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\NArrange.CSharp.dll</HintPath>
     </Reference>
     <Reference Include="NArrange.VisualBasic, Version=0.3.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NArrange.0.3.5\lib\NArrange.VisualBasic.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\NArrange.VisualBasic.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
